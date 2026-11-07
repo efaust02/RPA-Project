@@ -1,1 +1,1 @@
-os, smtplib, mimetypes, email.message
+os; smtplib; mimetypes; email.message
