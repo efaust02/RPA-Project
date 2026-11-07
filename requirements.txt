@@ -1,1 +1,1 @@
-os; smtplib; mimetypes; email.message
+datetime; openpyxl; analyticskit; pandas
